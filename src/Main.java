@@ -8,6 +8,6 @@ public class Main {
         t.changeChannels(false);
         t.turnOff();
         t.closeMenu();
-        //new
+        //new1
     }
 }
